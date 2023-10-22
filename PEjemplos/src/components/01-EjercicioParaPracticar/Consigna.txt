@@ -1,0 +1,6 @@
+Crea un componente padre llamado "CurrencyConverter" que tenga dos componentes hijos: "CurrencyInput"
+(entrada de moneda) y "CurrencyDisplay" (visualización de moneda). 
+El componente "CurrencyInput" debe permitir al usuario ingresar un monto en una moneda específica
+ y enviar ese valor al componente padre. El componente "CurrencyDisplay"
+debe recibir el monto ingresado desde el componente padre y mostrarlo con el símbolo
+ de la moneda correspondiente.
